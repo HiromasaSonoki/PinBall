@@ -912,6 +912,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SmallStarPrefab (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 6559470151667285182, guid: c84f5f6a7b00b2f44a0b67f991fbd6ed, type: 3}
+      propertyPath: m_TagString
+      value: SmallStarTag
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c84f5f6a7b00b2f44a0b67f991fbd6ed, type: 3}
 --- !u!1001 &883652231
@@ -968,6 +972,10 @@ PrefabInstance:
     - target: {fileID: 6756454426487128966, guid: db699d97e5e4a0948aa82f335cabae99, type: 3}
       propertyPath: m_Name
       value: LargeStarPrefab (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6756454426487128966, guid: db699d97e5e4a0948aa82f335cabae99, type: 3}
+      propertyPath: m_TagString
+      value: LargeStarTag
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: db699d97e5e4a0948aa82f335cabae99, type: 3}
@@ -1333,9 +1341,9 @@ RectTransform:
   m_Father: {fileID: 47854775}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 199.38, y: 778.66}
+  m_AnchorMin: {x: 1, y: 1}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: -340.62, y: -181.34003}
   m_SizeDelta: {x: 1080, y: 200}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1222091560
@@ -1435,6 +1443,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SmallStarPrefab (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 6559470151667285182, guid: c84f5f6a7b00b2f44a0b67f991fbd6ed, type: 3}
+      propertyPath: m_TagString
+      value: SmallStarTag
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c84f5f6a7b00b2f44a0b67f991fbd6ed, type: 3}
 --- !u!1001 &1411108373
@@ -1491,6 +1503,10 @@ PrefabInstance:
     - target: {fileID: 6559470151667285182, guid: c84f5f6a7b00b2f44a0b67f991fbd6ed, type: 3}
       propertyPath: m_Name
       value: SmallStarPrefab (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6559470151667285182, guid: c84f5f6a7b00b2f44a0b67f991fbd6ed, type: 3}
+      propertyPath: m_TagString
+      value: SmallStarTag
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c84f5f6a7b00b2f44a0b67f991fbd6ed, type: 3}
@@ -1742,6 +1758,10 @@ PrefabInstance:
     - target: {fileID: 6559470151667285182, guid: c84f5f6a7b00b2f44a0b67f991fbd6ed, type: 3}
       propertyPath: m_Name
       value: SmallStarPrefab (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6559470151667285182, guid: c84f5f6a7b00b2f44a0b67f991fbd6ed, type: 3}
+      propertyPath: m_TagString
+      value: SmallStarTag
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c84f5f6a7b00b2f44a0b67f991fbd6ed, type: 3}
@@ -2023,6 +2043,10 @@ PrefabInstance:
     - target: {fileID: 6756454426487128966, guid: db699d97e5e4a0948aa82f335cabae99, type: 3}
       propertyPath: m_Name
       value: LargeStarPrefab
+      objectReference: {fileID: 0}
+    - target: {fileID: 6756454426487128966, guid: db699d97e5e4a0948aa82f335cabae99, type: 3}
+      propertyPath: m_TagString
+      value: LargeStarTag
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: db699d97e5e4a0948aa82f335cabae99, type: 3}
